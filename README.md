@@ -5,8 +5,7 @@
 
 ## Hey 👋, I'm [Anshu Raj](https://github.com/anshuopinion/)
 
-I am Anshu Raj, Currenly I am doing [Youtube](https://youtube.com/anshuopinion/) as hobby . I Like to contibute on open-source project as well as teaching peoples how to code.
-
+I am Anshu Raj, Currenly I am doing [Youtube](https://youtube.com/anshuopinion/) as hobby . I Like to contibute on open-source project as well as teaching peoples.
 
 
 
