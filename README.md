@@ -5,7 +5,8 @@
 
 ## Hey 👋, I'm [Anshu Raj](https://github.com/anshuopinion/)
 
-I am Anshu Raj, Currenly I am doing [Youtube](https://youtube.com/anshuopinion/) as hobby . I Like to contibute on open-source project as well as teaching peoples.
+Currently I am Spreading my knowlege to world though my new youtube channel - Do Some coding
+
 
 
 
@@ -16,7 +17,7 @@ I am Anshu Raj, Currenly I am doing [Youtube](https://youtube.com/anshuopinion/)
 ### More About Me:
 
 -   🔭 I’m currently working on Flutter , ReactJs , Express and Nextjs
--   🌱 I’m currently learning Flutter 
+-   🌱 I’m currently learning Nest Js and Blogchain 
 -   💬 Ask me about anything, I am happy to help
 -   📫 How to reach me: [Mail](mailto:anshu.shah63@gmail.com) [Linkdin](https://www.linkedin.com/in/anshuopinion/)
 
