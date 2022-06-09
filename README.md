@@ -16,8 +16,8 @@ Currently I am Spreading my knowlege to world though my new youtube channel - Do
   
 ### More About Me:
 
--   🔭 I’m currently working on Flutter , ReactJs , Express and Nextjs
--   🌱 I’m currently learning Nest Js and Blogchain 
+-   🔭 I’m currently Making Videos For Community
+-   🌱 I’m currently learning AWS Backend
 -   💬 Ask me about anything, I am happy to help
 -   📫 How to reach me: [Mail](mailto:anshu.shah63@gmail.com) [Linkdin](https://www.linkedin.com/in/anshuopinion/)
 
