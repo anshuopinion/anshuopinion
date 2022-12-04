@@ -41,9 +41,9 @@ Currently I am Spreading my knowlege to world though my new youtube channel - Do
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunsathreya&theme=gotham&show_icons=true&include_all_commits=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsathreya&layout=compact)]()
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VarunSAthreya)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=anshuopinion&theme=gotham&show_icons=true&include_all_commits=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuopinion&layout=compact)]()
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anshuopinion)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuopinion&theme=gotham&show_icons=true&include_all_commits=true" />
 </p>
