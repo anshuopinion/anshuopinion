@@ -5,21 +5,24 @@
 
 ## Hey 👋, I'm [Anshu Raj](https://github.com/anshuopinion/)
 
-Currently I am Spreading my knowlege to world though my new youtube channel - Do Some coding
+Working as Freelance Developer on Fiverr. Almost Done 50+ Project On Fiverr (Level 2 Seller).
+I also teach on Youtube to help beginners to learn web development free of cost.
+Course that I have created 
+- HTML Complete Course
+- CSS Complete Course
+- JS Complete Course 
+- 10 HTML CSS Project Series
+- 10 HTML CSS JS Project Series
+- 10 React Project Series 
+- And Much More...
 
-
-
-
-
-
-
-  
 ### More About Me:
 
 -   🔭 I’m currently Making Videos For Community
--   🌱 I’m currently learning AWS Backend
+-   🌱 I’m currently About AI
 -   💬 Ask me about anything, I am happy to help
 -   📫 How to reach me: [Mail](mailto:anshu.shah63@gmail.com) [Linkdin](https://www.linkedin.com/in/anshuopinion/)
+-   🖥️ Visit: [DoSomeCoding](https://www.dosomecoding.com)
 
 
 ### Languages and Tools:
