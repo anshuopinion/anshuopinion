@@ -7,7 +7,7 @@
 
 Working as Freelance Developer on Fiverr. Almost Done 50+ Project On Fiverr (Level 2 Seller).
 I also teach on Youtube to help beginners to learn web development free of cost.
-Course that I have created 
+Courses that I have created 
 - HTML Complete Course
 - CSS Complete Course
 - JS Complete Course 
