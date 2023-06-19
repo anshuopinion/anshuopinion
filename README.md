@@ -5,7 +5,7 @@
 
 ## Hey 👋, I'm [Anshu Raj](https://github.com/anshuopinion/)
 
-Working as Freelance Developer on Fiverr. Almost Done 50+ Project On Fiverr (Level 2 Seller).
+Working as Freelance Developer on Fiverr. Almost Done 60+ Project On Fiverr (Level 2 Seller).
 I also teach on Youtube to help beginners to learn web development free of cost.
 Courses that I have created 
 - HTML Complete Course
@@ -39,8 +39,7 @@ Courses that I have created
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chakra/chakra.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
